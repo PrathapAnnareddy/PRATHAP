@@ -11,6 +11,7 @@ public static void main(String[] args) throws Throwable {
 	p.load(fis);
 	String prathap=p.getProperty("pwd");
 	System.out.println(prathap);
+	system.out.println("hello im pratap");
 	
 	}
 }
