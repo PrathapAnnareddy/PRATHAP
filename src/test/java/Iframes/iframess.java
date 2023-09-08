@@ -28,6 +28,7 @@ Thread.sleep(3000);
 String abc2 = driver.findElement(By.xpath("(//a[text()='org.openqa.selenium.bidi'])[1]")).getText();
 System.out.println(abc2);
 System.out.println(abc3);
+System.out.println(prathap);
 }
 
 }
